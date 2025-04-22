@@ -4,6 +4,13 @@
   padding: 0px;
 }
 
+.title {
+  color: purple;
+  background-color: bisque;
+  width: fit-content;
+  border: solid palevioletred;
+}
+
 /*title text style*/
 /* the font-family 'JetBrains Mono', has been linked
  * and is available for your use
